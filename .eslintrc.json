@@ -5,6 +5,8 @@
         "browser": true
     },
     "rules": {
+        "no-unused-vars": "warn",
+        "no-multiple-empty-lines": "warn",
         "comma-dangle": ["error", "never"],
         "object-curly-spacing": [2, "never"],
         "linebreak-style": 0,
